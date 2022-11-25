@@ -1,0 +1,20 @@
+{
+  "title": "Gem City ML",
+  "description": "Gem City ML, A Gem City TECH meetup.",
+  "author": "Evelyn J. Boettcher",
+  "image": "/img/gemcityML.ico",
+  "language": "en",
+  "repo": "https://github.com/ejboettcher/gemcityML",
+  "social": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/ejboettcher/gemcityML",
+      "image": "/img/github.svg"
+    },
+    {
+      "title": "Linkedin",
+      "url": "https://www.linkedin.com/in/eboettcher",
+      "image": "/img/LinkedIn_icon_circle.svg"
+    }
+  ]
+}

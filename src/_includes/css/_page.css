@@ -1,0 +1,30 @@
+@import "./custom.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-3xl sm:text-3xl font-bold mt-5 mb-3;
+  }
+  h2 {
+    @apply text-3xl font-extrabold mt-4 mb-2 ;
+  }
+  h3 {
+    @apply text-2xl font-bold mt-3 mb-1 ;
+  }
+  h4 {
+    @apply text-xl font-semibold mt-3 mb-1;
+  }
+  h5 {
+    @apply text-lg font-medium italic mt-3 mb-1;
+  }
+  p {
+    @apply text-lg font-normal mt-0 mb-0 text-left;
+
+  }
+  a {
+    @apply cursor-pointer text-blue hover:underline ;
+  }
+}

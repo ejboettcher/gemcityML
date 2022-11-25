@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ site.language }}">
+
+  <head>
+    {% include "head.njk" %}
+  </head>
+<body class="theme-base-08">
+
+{% include "sidebar.njk" %}
+
+  <div role="main" class="content container">
+{% block content %}{{ content | safe }}{% endblock %}
+  </div>
+
+  {% block Scripts %}
+  {% endblock %}
+</body>
+</html>
