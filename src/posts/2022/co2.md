@@ -10,3 +10,8 @@ Dr. Aaron Nielsen will talk on modeling CO2 in office spaces to predict occupanc
 ML/AI is more than just inputting data in to get same type of data out.
 It can be used to predict something new, like feed in CO2 data and get number of people in a room.
 
+<br>
+
+<br>
+
+

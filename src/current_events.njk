@@ -1,13 +1,15 @@
 ---
 layout: page-post.njk
-title: Gem City Machine Learning Meet-ups
+title: Gem City Machine Learning MeetUps
 ---
 
 
-<h1 class="post-title">ML Meetups</h1>
+<h1 class="post-title">ML MeetUp Events</h1>
 
 List of meeting can be found on
-Gem City TECH Meetup page (https://www.meetup.com/gem-city-tech) under Gem City Machine Learning.
+
+ <a class="no-underline hover:text-customRed" href=" https://www.meetup.com/gem-city-tech " target="_blank" rel="_noopener">
+  Gem City TECH MeetUp page</a> under Gem City Machine Learning.
 
 {% block content %}
     <div class="posts">
@@ -17,7 +19,7 @@ Gem City TECH Meetup page (https://www.meetup.com/gem-city-tech) under Gem City 
 
  {%- image post.data.postimage, "float-left w-1/3 m-auto my-4 p-0 pr-5 rounded-xl ", 
      post.data.title, "(min-width: 20em) 50vw, 100vw, " -%}
-        <time class="post-date" datetime="{{ post.date.getFullYear() }}">{{ post.date.getFullYear()}}</time>
+        <time class="post-date" datetime="{{ post.date | postDate }}">{{ post.date | postDate }}</time>
 {{ post.templateContent | safe | trim }}
       </article>
 {% endfor %}

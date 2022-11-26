@@ -11,3 +11,8 @@ Guest Speaker: Dr. Aaron Nielsen from AFIT will be talking about
 "Machine Learning for Magnetic Navigation" one of the Air Force AI Accelerator projects.
 
 To Learn More see [MIT Magnav](https://magnav.mit.edu/)
+
+
+<br>
+<br>
+

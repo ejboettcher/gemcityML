@@ -27,7 +27,7 @@ module.exports = {
 
     },
     backgroundImage: {
-      'hero-lg': "url('../img/gem_city_dark_banner.png')",
+      'hero-lg': "url('../img/gem_city_dark_bannor.png')",
       'hero-sm': "url('../img/gem_city_dark.png')",
     },
     extend: {},

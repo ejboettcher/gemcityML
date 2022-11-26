@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "gemcity",
     "public": "public",
     "ignore": [
       "firebase.json",

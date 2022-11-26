@@ -5,7 +5,7 @@
     class="flex flex-row flex-no-wrap items-center self-start justify-between w-full sm:w-auto 
     sm:self-center sm:flex-none">
     <a aria-label="Home" href="/" class="relative inline transition-all duration-500 delay-300 transform opacity-0 hover:no-underline -left-10" x-init="$el.classList.add('translate-x-8');$el.classList.add('opacity-100')">
-      <img src="/img/gem_city_dark_banner.png" alt="Gem City ML logo" class="m-1" height="75px" width="90px">
+      <img src="/img/gem_city_social.png" alt="Gem City ML logo" class="m-1" height="75px" width="90px">
     </a>
     <button id="menuBtn" class="block hamburger sm:hidden focus:outline-none" type="button" onclick="navToggle();"
       aria-label="Show Menu"><span class="hamburger__top-bun"></span><span
@@ -13,17 +13,15 @@
   </div>
   <div id="menu"
     class="fixed inset-0 z-10 flex-col items-center self-end justify-center hidden h-full py-6 bg-transparent sm:relative sm:w-auto sm:self-center sm:flex sm:flex-row sm:py-0">
-    <a class="w-auto px-3 py-3 text-lg font-bold text-center text-blue hover:no-underline hover:text-gray-400 sm:flex sm:py-0"
+    <a class="w-auto px-3 py-3 text-lg font-bold text-center text-blue hover:no-underline hover:text-gray-400 bg-darkblue sm:flex sm:py-0"
       href="/#about">About</a>
-    <a class="w-auto px-3 py-3 text-lg font-bold text-center text-blue hover:no-underline hover:text-gray-400 sm:flex sm:py-0"
-      href="/privacy">Privacy Policy</a>
-   <a class="w-auto px-3 py-3 text-lg font-bold text-center text-blue hover:no-underline hover:text-gray-400 sm:flex sm:py-0"
-      href="/current_events">Meetups</a>
-   <a class="w-auto px-3 py-3 text-lg font-bold text-center text-blue hover:no-underline hover:text-gray-400 sm:flex sm:py-0"
+   <a class="w-auto px-3 py-3 text-lg font-bold text-center text-blue hover:no-underline hover:text-gray-400 bg-darkblue sm:flex sm:py-0"
+      href="/current_events">Events</a>
+   <a class="w-auto px-3 py-3 text-lg font-bold text-center text-blue hover:no-underline hover:text-gray-400 bg-darkblue sm:flex sm:py-0"
       href="/sponsors">Sponsors</a>
    <a class="w-auto px-5 py-1 mx-4 my-4 text-lg font-bold text-left text-white border hover:no-underline bg-green hover:bg-opacity-80 sm:my-0"
       href="/contact" target="_blank" rel="_noopener">Contact Us</a>
-      <div class="flex flex-row flex-wrap items-center justify-center py-2 pr-2 text-white sm:py-0">
+      <div class="flex flex-row flex-wrap items-center justify-center py-2 pr-2 text-white  sm:py-0">
         {% for item in site.social %}
           <div class="py-4 pl-0 text-center sm:pl-1 pr-1">
           <a href="{{ item.url }}" target="_blank" rel="_noopener"><img class="hover:opacity-60"

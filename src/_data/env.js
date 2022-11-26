@@ -1,7 +1,7 @@
 const environment = process.env.ELEVENTY_ENV;
 const DEV_ENV = 'dev';
-const devUrl = 'http://localhost:8081';
-const prodUrl = 'https://didactex-b003e.web.app';
+const devUrl = 'https://gemcityml.com';
+const prodUrl = 'https://gemcityml.com';
 const isProd = environment !== DEV_ENV;
 const url = isProd ? prodUrl : devUrl;
 
@@ -10,7 +10,7 @@ module.exports = {
     isProd,
     url,
     tracking: {
-        gtag: 'MY-GTAG-ID',
+        gtag: 'G-20DLMMRF2G',
         pixelId: 'MY-PIXEL-ID',
     },    
 };

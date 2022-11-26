@@ -1,20 +1,16 @@
 {
-  "title": "Gem City ML",
-  "description": "Gem City ML, A Gem City TECH meetup.",
+  "title": "Gem City Machine Learning (ML)",
+  "description": "Gem City ML: A Gem City TECH meetup group.",
   "author": "Evelyn J. Boettcher",
-  "image": "/img/gemcityML.ico",
+  "image": "/img/gem_city_social.png",
   "language": "en",
   "repo": "https://github.com/ejboettcher/gemcityML",
   "social": [
     {
-      "title": "GitHub",
-      "url": "https://github.com/ejboettcher/gemcityML",
-      "image": "/img/github.svg"
-    },
-    {
-      "title": "Linkedin",
-      "url": "https://www.linkedin.com/in/eboettcher",
-      "image": "/img/LinkedIn_icon_circle.svg"
+      "title": "MeetUp",
+      "url": "https://www.meetup.com/gem-city-tech/",
+      "image": "/img/logos/meetup_logo.svg"
     }
+
   ]
 }

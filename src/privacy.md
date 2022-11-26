@@ -4,7 +4,12 @@ title: Privacy Policy
 desc: privacy policy
 ---
 
-## Privacy Policy for the websites: [www.didactex.com, www.onetwentyone.games, www.onerealpocket.com]
+## Privacy Policy for the websites: 
+
+Privacy Policy for the following websites:
+
+* www.gemcityml.com, www.didactex.com, www.onetwentyone.games, www.onerealpocket.com
+
 THIS APPLICATION COLLECTS SOME PERSONAL DATA FROM ITS USERS.
 
 ---

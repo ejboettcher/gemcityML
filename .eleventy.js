@@ -7,7 +7,7 @@ const markdownItEmoji = require("markdown-it-emoji");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const faviconPlugin = require("eleventy-favicon");
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
-
+const { DateTime } = require("luxon");
 
 const removeTrailingSlash = (url) => {
   if (typeof url !== 'string') {
@@ -38,7 +38,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(faviconPlugin, { destination: './public' });
   eleventyConfig.addPlugin(EleventyRenderPlugin);
-
+eleventyConfig.addFilter("postDate", (dateObj) => {
+  return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
+});
   eleventyConfig.addFilter('removeTrailingSlash', removeTrailingSlash);
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
@@ -115,5 +117,4 @@ module.exports = function (eleventyConfig) {
       autoescape: false, // warning: don’t do this!
     });
   };
-
 };
