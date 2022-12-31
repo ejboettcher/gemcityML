@@ -1,8 +1,8 @@
 const environment = process.env.ELEVENTY_ENV;
 const DEV_ENV = 'dev';
-const devUrl = 'https://gemcityml.com';
+const devUrl = 'https://localhost:8000';
 const prodUrl = 'https://gemcityml.com';
-const isProd = environment !== DEV_ENV;
+const isProd = true;
 const url = isProd ? prodUrl : devUrl;
 
 module.exports = {

@@ -96,6 +96,14 @@ eleventyConfig.addFilter("postDate", (dateObj) => {
     return content;
   });
 
+  eleventyConfig.addFilter("truncatewords", function (str = "", limit = 30) {
+    return str.toString()
+      .trim()
+      .split(/\s+/g, limit)
+      .join(" ") + "&hellip;";
+  });
+
+
   return {
     dir: {
       input: 'src',
