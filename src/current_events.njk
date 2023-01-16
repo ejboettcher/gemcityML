@@ -21,7 +21,10 @@ List of meeting can be found on
      post.data.title, "(min-width: 20em) 50vw, 100vw, " -%}
         <time class="post-date" datetime="{{ post.date | postDate }}">{{ post.date | postDate }}</time>
 {{ post.templateContent |  truncatewords(40) | safe | trim }}
+     </br>
       </article>
+      </br>
+
 {% endfor %}
     </div>
 {% endblock %}

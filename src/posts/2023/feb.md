@@ -11,9 +11,8 @@ Excited to announce we have two speakers again for February!
 We are going to finish the MLOps Tutorial from January. 
 To get the most out of this meet up please bring a computer with Python and docker installed.
 
-Tentatively: Dr. Richard Van Hook will speak on **"Scene Motion Detection in Imagery with Anisoplantic Optical Turbulence"**
+Dr. Richard Van Hook will speak on **"Scene Motion Detection in Imagery with Anisoplantic Optical Turbulence"**
 In long range imaging applications, atmospheric optical turbulence imparts spatially- and temporally-varying blur and geometric distortions in imagery. Without correction, the ability to distinguish true scene motion from turbulence warping is not really possible. Using a type of GMM he was able to correct for this turbulence enabling detection and tracking algorithms to work.
-
 
 
 **ML & AI Software Development 101: An Interactive Workshop**
