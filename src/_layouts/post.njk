@@ -6,7 +6,7 @@ layout: page-post.njk
 {% block content %}
     <article class="post" data-input-path="{{ page.filePathStem }}">
       <h1 class="post-title">{{ title }}</h1>
-      <time class="post-date" datetime="{{ post.date | postDate }}">{{ post.date | postDate }}</time>
+      <time class="post-date" datetime={{ page.date | postDate }}>{{ page.date | postDate }}</time>
   
  {%- image postimage, "justify-center w-2/3 m-auto my-4 p-0 pr-0 rounded-xl ", 
      title, "(min-width: 20em) 50vw, 100vw, " -%}

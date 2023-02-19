@@ -62,10 +62,9 @@ to host a mini conference on AI/ML within the DoD.
 
 #### AI/ML Collider with Wright Bothers Institute (WBI)
 
-This will be a 2-3 hour mini conference with speakers from both from inside and outside the fence, giving their unique prospective.
+Two hour mini conference with speakers from both from inside and outside the fence, giving their unique prospective.
 
-More information to come.
-
+May 18th from 2-4pm at WBI.  (Note: May's meetup will be at WBI and not at the Hub.)
 
 The [Wright Brothers Institute (WBI)](https://www.wbi-innovates.com/) is a cutting-edge center for innovation and technology commercialization. WBI provides breakthrough solutions to US Air Force's most complex initiatives by leveraging resident experts, unique facilities, disruptive innovation processes and extensive networks.
 

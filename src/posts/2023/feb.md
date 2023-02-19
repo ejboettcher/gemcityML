@@ -8,7 +8,7 @@ postimage: "./src/static/img/posts/van_hook.png"
 
 Excited to announce we have two speakers again for February!  
 
-We are going to finish the MLOps Tutorial from January. 
+We are going to finish the MLOps Workshop from January. 
 To get the most out of this meet up please bring a computer with Python and docker installed.
 
 Dr. Richard Van Hook will speak on **"Scene Motion Detection in Imagery with Anisoplantic Optical Turbulence"**
