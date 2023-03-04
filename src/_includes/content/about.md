@@ -51,20 +51,25 @@ You can connect with us through the [GemCity TECH Discord Server ](https://disco
 
 We meet on the third Thursday of every month at 6pm at the Arcade Innovation Hub.
 
-Please RSVP on [Gem City ML / AI is MeetUp page](https://www.meetup.com/gem-city-tech/).
+Please **RSVP** on [Gem City ML / AI is MeetUp page](https://www.meetup.com/gem-city-tech/).
 
+<br>
+<hr>
+<hr>
 
 ### Upcoming Events
 
-In addition to our monthly meetups on Thursday's, GemCity ML is working with the Wright Bothers Institute 
+In addition to our monthly meetups on Thursday's, GemCity ML is hosting with the Wright Bothers Institute 
 to host a mini conference on AI/ML within the DoD.  
 
 
 #### AI/ML Collider with Wright Bothers Institute (WBI)
 
-Two hour mini conference with speakers from both from inside and outside the fence, giving their unique prospective.
+A mini conference with speakers from both from inside and outside the fence, giving their unique prospective.
 
-May 18th from 2-4pm at WBI.  (Note: May's meetup will be at WBI and not at the Hub.)
+**May 18th from 2-4pm at WBI.**  (Note: May's meetup will be at WBI and not at the Hub.)
+
+<br>
 
 The [Wright Brothers Institute (WBI)](https://www.wbi-innovates.com/) is a cutting-edge center for innovation and technology commercialization. WBI provides breakthrough solutions to US Air Force's most complex initiatives by leveraging resident experts, unique facilities, disruptive innovation processes and extensive networks.
 

@@ -24,7 +24,7 @@ In addition, he pushed his game up to the Github so that you too can play along.
 
 ---
 
-If time permits, Evelyn J. Boettcher will give a presentation on Design Experiment: a primer with emphasis on AB Testing.  
+If time permits, Evelyn J. Boettcher will give a presentation on [Design Experiment: a primer with emphasis on AB Testing](https://ejboettcher.github.io/gemcityml_ab_testing/talk.html#/title-slide).  
 
 It cost money to run experiment, train algorithms and implement algorithms.  We saw this in March's meetup where initially one needed to upgrade to Pro Colab, but in the end with reduced sample size and runtime we could have scrapped by with regular Colab.  There are mathematical models you can use to identify what is the number of sample you need to get good results.
 
