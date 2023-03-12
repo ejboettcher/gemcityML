@@ -8,6 +8,9 @@ postimage: "./src/static/img/posts/lightningtalks.png"
 
 Several speakers will give short presentations.
 
+* Michael Krumm: AI and 3D reconstructions
+* Evelyn Boettcher: Design Experiments: Multi-Arm Bandit.
+
 Topic ideas:
 
 * MLFlow: Brief overview what it is and why you should switch.
