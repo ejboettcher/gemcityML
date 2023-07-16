@@ -10,8 +10,10 @@ Several speakers will give short presentations.
 
 * Michael Krumm: AI and 3D reconstructions
 * Evelyn Boettcher: Design Experiments: Multi-Arm Bandit.
+* Allen May: Data Version Control
+* Nick Mackowski: Extracting Data
 
-Topic ideas:
+Future Topic ideas:
 
 * MLFlow: Brief overview what it is and why you should switch.
 * Multi Arm Bandit: Why and how you should be using this to design your experiments.
