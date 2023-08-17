@@ -2,15 +2,11 @@
 title: "ML for defining communities"
 date: 2023-07-20 18:00:00 +05:00
 tags: [learning, tutorial, AI, SNN, posts]
-postimage: "./src/static/img/gem_city_social.png"
+postimage: "./src/static/img/logos/cfd-logo-stacked-dark.png"
 
 ---
 
 
-Two Speakers this month focused on using ML for defining communities.
-
-**Algorithmic Redistricting**
-This project explores algorithmic redistricting using geospatial machine learning techniques. By applying simulated annealing, a metaheuristic optimization algorithm, to a Markov chain implemented with the Monte Carlo method, the project aims to maximize district areas while minimizing borders. The proposed approach offers promising solutions by creating political districts adhering to user-defined goals.
 
 
 **LangChain Example**, by David Best:

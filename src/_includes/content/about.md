@@ -1,12 +1,12 @@
 
 ## Gem City Machine Learning
 
-{% image "./src/static/img/qr-code.png", "float-right w-1/3 m-auto my-4 p-0 pl-0 rounded-xl ",  "qr code for discord", "(min-width: 20em) 50vw, 100vw, " %}
+{% image "./src/static/img/gemcity_discord_qr.png", "float-right w-1/3 m-auto my-4 p-0 pl-0 rounded-xl ",  "qr code for discord", "(min-width: 20em) 50vw, 100vw, " %}
 
 
 The [Gem City Machine Learning (ML)](https://www.meetup.com/gem-city-tech/) group is part of the GemCity TECH family of user communities. 
 
-Each month we meet at the Innovation Hub located in the newly renovated Dowtown Dayton Arcade. 
+Each month we meet at the Innovation Hub located in the newly renovated Downtown Dayton Arcade. 
 We meet to explore the exciting and growing field of Machine Learning (ML) and Artificial Intelligence (AI).
 
 
@@ -59,18 +59,26 @@ Please **RSVP** on [Gem City ML / AI is MeetUp page](https://www.meetup.com/gem-
 
 ### Upcoming Events
 
-In addition to our monthly meetups on Thursday's, GemCity ML is hosting with the Wright Bothers Institute 
-to host a mini conference on AI/ML within the DoD.  
+#### Christmas ML/AI Challenge.
+
+In December, we will do a repeat of ML/AI art contest. Why, because ML/AI has taken off in 2023!  It would be interesting to see how much things have changed.
+
+RULES: 
+
+* Must be DAYTON, OH themed
+* Must post the image on the GemCity TECH discord server under Machine Learning channel during the first two weeks of December.
+* The one with the most likes wins.
+
+PRIZES:
+* Glory
+* I might print the winners as a poster again.
+
+##### Past Example of ML Art: Dayton Themed
+
+* Pull tab was invented in Dayton, OH by Mr. Fraze
+
+{% image "./src/static/img/posts/pulltabtree.png", "float-center w-1/3 m-auto my-4 p-0 pl-0 rounded-xl ",  "qr code for discord", "(min-width: 20em) 50vw, 100vw, " %}
 
 
-#### AI/ML Collider with Wright Bothers Institute (WBI)
-
-A mini conference with speakers from both from inside and outside the fence, giving their unique prospective.
-
-**May 18th from 2-4pm at WBI.**  (Note: May's meetup will be at WBI and not at the Hub.)
-
-<br>
-
-The [Wright Brothers Institute (WBI)](https://www.wbi-innovates.com/) is a cutting-edge center for innovation and technology commercialization. WBI provides breakthrough solutions to US Air Force's most complex initiatives by leveraging resident experts, unique facilities, disruptive innovation processes and extensive networks.
 
 

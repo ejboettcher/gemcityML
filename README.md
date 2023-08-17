@@ -63,4 +63,6 @@ Open http://localhost:8080 in a browser of your choice
 
 ### Deploy
 
-$ npm run build && npx firebase deploy --only hosting
+```
+npm run build && npx firebase deploy --only hosting
+```
