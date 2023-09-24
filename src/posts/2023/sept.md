@@ -1,8 +1,8 @@
 ---
-title: "Fast Times at the Hub"
+title: "$Fast Times at the Hub"
 date: 2023-09-21 18:00:00 +05:00
 tags: [learning, tutorial, AI, SNN, posts]
-postimage: "./src/static/img/posts/startup.png"
+postimage: "./src/static/img/posts/lightningtalks.png"
 
 ---
 
@@ -10,7 +10,9 @@ postimage: "./src/static/img/posts/startup.png"
 
 **AI and FastAPI**: Wesley Giles is going to focus his Dynamic Language talk to implementing an AI within a FastAPI application.
 
-**Memory in LangChang**: Evelyn Boettcher will talk about how LangChang can be used to give your ChatGPT memory within your application.
+**Financial Machine Learning I**: Pilar Orellana, In this note, we showcase optimization techniques for an artificial neural network with respect to stock price prediction. If time permits, we'll discuss the role of the Black-Scholes model, option strikes, and second and third order Greeks in Machine Learning.
+
+**Memory in LangChain**: Evelyn Boettcher will talk about how LangChain can be used to give your ChatGPT memory within your application.
 
 **Future Topic ideas:**
 
