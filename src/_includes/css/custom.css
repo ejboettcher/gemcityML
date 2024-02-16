@@ -238,3 +238,74 @@ code {color: #b04751;}        /* darken(#bf616a, 8%) */
 /* Every base-16 set has to be reset */
 .theme-base-08 .sidebar {background-color: theme('colors.blue');} /* darken(#ac4142, 20%) */
 .theme-base-08 .content a, .theme-base-08 .related-posts li a:hover {color: theme('colors.pink');} /* Ok */
+
+
+/* The navigation menu */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navigation links */
+.navbar a {
+  float: left;
+  font-size:1.2rem;
+  font-style: bold;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The subnavigation menu */
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+/* Subnav button */
+.subnav .subnavbtn {
+  font-size: 1.2rem;
+  border: none;
+  outline: none;
+  color: theme('colors.blue');
+  padding: 16px 20px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 1px;
+  padding-left: 10px;
+}
+
+/* Add a red background color to navigation links on hover */
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: theme('colors.blue');
+}
+
+/* Style the subnav content - positioned absolute */
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 10px;
+  padding-left: 1.1em;
+  background-color: theme('colors.green');
+  width: 100%;
+  z-index: 1;
+}
+
+/* Style the subnav links */
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+/* Add a grey background color on hover */
+.subnav-content a:hover {
+  background-color: theme('colors.green');
+  color: black;
+}
+
+/* When you move the mouse over the subnav container, open the subnav content */
+.subnav:hover .subnav-content {
+  display: block;
+}

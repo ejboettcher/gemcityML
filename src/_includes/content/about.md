@@ -57,27 +57,8 @@ Please **RSVP** on [Gem City ML / AI is MeetUp page](https://www.meetup.com/gem-
 <hr>
 <hr>
 
-### Upcoming Events
 
-#### Christmas ML/AI Challenge.
 
-In December, we will do a repeat of ML/AI art contest. Why, because ML/AI has taken off in 2023!  It would be interesting to see how much things have changed.
-
-RULES: 
-
-* Must be DAYTON, OH themed
-* Must post the image on the GemCity TECH discord server under Machine Learning channel during the first two weeks of December.
-* The one with the most likes wins.
-
-PRIZES:
-* Glory
-* I might print the winners as a poster again.
-
-##### Past Example of ML Art: Dayton Themed
-
-* Pull tab was invented in Dayton, OH by Mr. Fraze
-
-{% image "./src/static/img/posts/pulltabtree.png", "float-center w-1/3 m-auto my-4 p-0 pl-0 rounded-xl ",  "qr code for discord", "(min-width: 20em) 50vw, 100vw, " %}
 
 
 
